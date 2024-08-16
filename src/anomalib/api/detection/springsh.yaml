@@ -1,0 +1,9 @@
+path: D:\maftuh\DATA\YoloTrainDataset\2024-05-17_00-45-40-487228\samping_split  # dataset root dir
+train: train/images  # train images (relative to 'path') 4 images
+val: val/images  # val images (relative to 'path') 4 images
+test:  # test images (optional)
+
+# Classes (80 COCO classes)
+names:
+  0: atas
+  1: samping
